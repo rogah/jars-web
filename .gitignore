@@ -4,4 +4,4 @@ logs
 .npm
 .env
 .next
-.idea
+.idea/
